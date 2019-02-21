@@ -1,5 +1,5 @@
 "use strict";
-class track {
+class Track {
   constructor (afstand, snelsteTijd, land){
     this._afstand = afstand;
     this._snelsteTijd = snelsteTijd;
