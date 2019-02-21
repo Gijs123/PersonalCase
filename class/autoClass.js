@@ -24,3 +24,4 @@ class Auto {
     return this._teamID = integer;
   }
 }
+module.exports = Auto;
